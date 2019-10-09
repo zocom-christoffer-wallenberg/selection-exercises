@@ -15,7 +15,7 @@ Extra utmaning: Räkna antalet gissningar och visa för användaren när denna h
 Gör ett sten-sax-påse spel. Där användaren matar in sten, sax eller påse som en sträng. Sedan slumpas "datorns" drag och efter det jämför med if-satser vem som vann.
 
 ## Övning 4
-**Gör gärna två och två!**
+**Parprogrammera gärna denna med en klasskompis!**
 I denna övning ska du få göra ett choose your own adventure baserat på Guldlock och de tre björnarna. Berättelsen kan du hitta [här](http://www.dltk-teach.com/rhymes/goldilocks_story.htm) som du kan kopiera ifrån.
 
 Förslag på en sagolik font https://fonts.google.com/specimen/Indie+Flower att använda.
